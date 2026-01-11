@@ -5,6 +5,10 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.util.ArrayList;
 import java.util.List;
+import org.junit.jupiter.api.Test;
+
+import static org.junit.jupiter.api.Assertions.assertEquals;
+
 
 // GUI-Komponenten
 public class FitnessTracker extends JFrame {
@@ -186,6 +190,3 @@ private void showAll(List<Training> data){
         fit.setVisible(true);
     }
 }
-
-
-
