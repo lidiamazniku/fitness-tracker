@@ -44,12 +44,8 @@ Das App hat eine **grafische Oberfläche (GUI)**, die mit **Java Swing** erstell
 ---
 
 ## Projektstruktur
-FitnessTracker/
-├── src/
-│ ├── FitnessTracker.java // Hauptklasse mit GUI und Logik
-│ ├── Training.java // Klasse für eine Trainingseinheit
-│ └── FitnessTracker.form // GUI-Layout (automatisch erstellt)
-└── README.md // Projektbeschreibung
+
+FitnessTracker/ ├── src/ │ ├── FitnessTracker.java # Hauptklasse mit GUI und Logik │ ├── Training.java # Klasse für eine Trainingseinheit │ └── FitnessTracker.form # GUI-Layout └── README.md # Projektbeschreibung
 
 
 ---
